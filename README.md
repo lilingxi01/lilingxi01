@@ -15,3 +15,9 @@
 - Good at team leading in any type of teamworks
 
 **AND MORE**
+
+- [ ] What can I do for you?
+
+- [ ] Social media links.
+
+- [ ] Currently Learning or Doing.
