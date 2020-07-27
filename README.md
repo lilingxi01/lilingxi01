@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Lingxi Li. 李凌熹.
+## Hi there 👋 I'm Lingxi Li. 李凌熹. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+> **PRONOUNS:** He / Him
 
 🎓 - I am currently an undergraduate student majoring in Computer Science.
 
@@ -14,10 +16,27 @@
 
 - Good at team leading in any type of teamworks
 
-**AND MORE**
+### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- [ ] What can I do for you?
+- The Software Development in IoT (I will soon learn Python for that)
 
-- [ ] Social media links.
+- Swift Basics (In progress now)
 
-- [ ] Currently Learning or Doing.
+- Machine Learning in Java (Nah, not yet started)
+
+### 👌 What can I do for you or with you?
+
+- Helping you to build an amazing and outstanding Android Graphics User Interface or anything about Android
+
+- Making a business plan or product design for you in the field of mobile application or touch screen solution
+
+- Working on software modularize for a better and normalized coding experience
+
+- Share my brainstorming ideas with you
+
+### 🐦 Where can you find me?
+
+- <a href="https://www.linkedin.com/in/lingxi-li-7a3517188/"><img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>@ <em>Lingxi Li</em></a>
+
+- <a href="https://www.instagram.com/lingxi.nath.li/"><img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>@ <em>lingxi.nath.li</em></a>
+
