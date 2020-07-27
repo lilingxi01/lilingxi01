@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lingxi Li. 李凌熹. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## Hi there 👋 I'm Lingxi Li. 李凌熹. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
 
 > **PRONOUNS:** He / Him
 
