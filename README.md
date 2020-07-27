@@ -26,11 +26,11 @@
 
 ### 👌 What can I do for you or with you?
 
-- Helping you to build an amazing and outstanding Android Graphics User Interface or anything about Android
+- Help you to build an amazing and outstanding Android Graphics User Interface or anything about Android
 
-- Making a business plan or product design for you in the field of mobile application or touch screen solution
+- Make a business plan or product design for you in the field of mobile application or touch screen solution
 
-- Working on software modularize for a better and normalized coding experience
+- Work on software modularize for a better and normalized coding experience
 
 - Share my brainstorming ideas with you
 
