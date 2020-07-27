@@ -36,7 +36,7 @@
 
 ### 🐦 Where can you find me?
 
-- <a href="https://www.linkedin.com/in/lingxi-li-7a3517188/"><img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>@ <em>Lingxi Li</em></a>
+* <pre><a href="https://www.linkedin.com/in/lingxi-li-7a3517188/"><img align="center" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> @ <em>Lingxi Li</em></a></pre>
 
-- <a href="https://www.instagram.com/lingxi.nath.li/"><img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>@ <em>lingxi.nath.li</em></a>
+* <pre><a href="https://www.instagram.com/lingxi.nath.li/"><img align="center" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/> @ <em>lingxi.nath.li</em></a></pre>
 
