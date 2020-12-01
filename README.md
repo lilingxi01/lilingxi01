@@ -10,19 +10,19 @@
 
 ### 🛰️ Here are some memos for you to know more about me:
 
-- Product Manager for Software (for 4 years) especially in E-Learning Industry
+- Product Manager for Software (for 3 years) concentrating on an extraordinary User Experience and UI Design
 
-- Java Software Engineer (for 3 years) concentrating on Android
+- Java Software Engineer (for 4 years) concentrating on Android
 
-- Good at team leading in any type of teamworks
+- Good at team leading in teamworks of software developing
 
 ### 🙈 What can I do?
 
-- Programming: Java, Javascript, Swift(learning), Python(learning), C(learning).
+- Programming: Java, Javascript, Swift(learning), Python(learning), C(learning)
 
-- Fore-end Development: SwiftUI for iOS, XML for Java, HTML for website.
+- Fore-end Development: SwiftUI for iOS, XML for Java, HTML for website
 
-- Photos and Videos: Photoshop, Lightroom, Premiere Pro.
+- Photos and Videos: Photoshop, Lightroom, Premiere Pro
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
