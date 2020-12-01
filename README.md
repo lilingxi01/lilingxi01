@@ -16,11 +16,19 @@
 
 - Good at team leading in any type of teamworks
 
+### 🙈 What can I do?
+
+- Programming: Java, Javascript, Swift(learning), Python(learning), C(learning).
+
+- Fore-end Development: SwiftUI for iOS, XML for Java, HTML for website.
+
+- Photos and Videos: Photoshop, Lightroom, Premiere Pro.
+
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
 - The Software Development in IoT (I will soon learn Python for that)
 
-- Swift Basics (In progress now)
+- SwiftUI and iOS App Development
 
 - Machine Learning in Java (Nah, not yet started)
 
