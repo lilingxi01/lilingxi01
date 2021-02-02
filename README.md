@@ -20,9 +20,13 @@
 
 - Programming: Java, Javascript, Swift(learning), Python(learning), C(learning)
 
-- Fore-end Development: SwiftUI for iOS, XML for Java, HTML for website
+- Data Structure Design: To make the data structure fit with both fore-end and back-end
 
-- Photos and Videos: Photoshop, Lightroom, Premiere Pro
+- Fore-end Development: SwiftUI for iOS, Dynamic/XML for Java/Android, HTML/CSS for website
+
+- Back-end Development: Currently using Serverless Cloud Solutions and it works super well
+
+- Photos and Videos: Photoshop, Lightroom, Premiere Pro, etc
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
