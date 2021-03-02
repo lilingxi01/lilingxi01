@@ -4,7 +4,7 @@
 
 🎓 - I am currently an undergraduate student majoring in Computer Science.
 
-🌍 - I and my collegues is now creating the most advanced and gorgeous softwares for our smart life in the future, including The Next Generation of E-Learning and AIoT. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
+🌍 - I and my collegues is now creating a series of advanced and gorgeous softwares for the smart life industry in the future. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
 
 🌃 - I extremely enjoy the outdoors especially exploring nature and stargazing. So when tired, I liked to drive my car out to a state park. Nature gives me the power of all-day coding. (**I also take photos for them. You can find it in my instagram!!**)
 
@@ -18,7 +18,7 @@
 
 ### 🙈 What can I do?
 
-- Programming: Java, Javascript, Swift(learning), Python(learning), C(learning)
+- Programming Languages: Java, Javascript, Swift(learning), Python(learning), C(learning)
 
 - Data Structure Design: To make the data structure fit with both fore-end and back-end
 
