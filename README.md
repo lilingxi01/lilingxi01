@@ -20,11 +20,11 @@
 
 - Programming Languages: Java, Javascript, Swift(learning), Python(learning), C(learning)
 
-- Data Structure Design: To make the data structure fit with both fore-end and back-end
+- Product Design: To make the experiences of users and programmers better on both fore and back ends
 
-- Fore-end Development: SwiftUI for iOS, Dynamic/XML for Java/Android, HTML/CSS for website
+- Fore-end Development: SwiftUI for iOS, Dynamic/XML for Java/Android, HTML/CSS/JavaWeb for websites
 
-- Back-end Development: Currently using Serverless Cloud Solutions and it works super well
+- Back-end Development: Serverless Cloud Solutions & Springboot
 
 - Photos and Videos: Photoshop, Lightroom, Premiere Pro, etc
 
