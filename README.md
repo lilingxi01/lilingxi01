@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Lingxi Li. 李凌熹. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">
+# 👋 Hi there! I'm Lingxi Li. 李凌熹.
 
-> **PRONOUNS:** He / Him
+> **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
 
 🎓 - I am currently an undergraduate student majoring in Computer Science.
 
