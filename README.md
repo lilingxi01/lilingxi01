@@ -30,11 +30,11 @@
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- The Software Development in IoT (I will soon learn Python for that)
+- Machine Learning (Java / C)
 
-- SwiftUI and iOS App Development
+- IoT, the software working with the hardware
 
-- Machine Learning in Java (Nah, not yet started)
+- iOS and macOS App Development
 
 ### 👌 What can I do for you or with you?
 
