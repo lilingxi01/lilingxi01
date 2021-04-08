@@ -6,45 +6,47 @@
 
 🌍 - I and my collegues is now creating a series of advanced and gorgeous softwares for the smart life industry in the future. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
 
-🌃 - I extremely enjoy the outdoors especially exploring nature and stargazing. So when tired, I liked to drive my car out to a state park. Nature gives me the power of all-day coding. (**I also take photos for them. You can find it in my instagram!!**)
+🌃 - I extremely enjoy the outdoors especially exploring nature and stargazing. So when tired, I liked to drive my car out to a state park. Nature gives me the power of all-day coding. (**I also take photos for them. You can find it in my instagram!! Link is at the bottom of the page.**)
 
 ### 🛰️ Here are some memos for you to know more about me:
 
-- Product Manager for Software (for 3 years) concentrating on an extraordinary User Experience and UI Design
+- Product Manager for Software (for 4 years) concentrating on an extraordinary User Experience and UI Design
 
 - Java Software Engineer (for 4 years) concentrating on Android
+
+- Swift Software Engineer (for 1 year) working with SwiftUI
 
 - Good at team leading in teamworks of software developing
 
 ### 🙈 What can I do?
 
-- Programming Languages: Java, Javascript, Swift(learning), Python(learning), C(learning)
+- Programming Languages: Java, Javascript, Swift, Python(learning), C(learning), Crystal(learning)
 
 - Product Design: To make the experiences of users and programmers better on both fore and back ends
 
-- Fore-end Development: SwiftUI for iOS, Dynamic/XML for Java/Android, HTML/CSS/JavaWeb for websites
+- Fore-end Development: SwiftUI, Java/Android, Website
 
-- Back-end Development: Serverless Cloud Solutions & Springboot
+- Back-end Development: Serverless Cloud Solutions, Springboot
 
 - Photos and Videos: Photoshop, Lightroom, Premiere Pro, etc
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- Machine Learning (Java / C)
+- Machine Learning (Python / Java / C)
 
-- IoT, the software working with the hardware
+- IoT Client Solution
 
-- iOS and macOS App Development
+- My first iOS (including iPadOS & macOS) product
 
 ### 👌 What can I do for you or with you?
 
-- Help you to build an amazing and outstanding Android Graphics User Interface or anything about Android
+- Help you to build an amazing and outstanding App on both Android and Apple platforms (iOS, iPadOS, macOS).
 
-- Make a business plan or product design for you in the field of mobile application or touch screen solution
+- Make a business plan or product design for you in the field of mobile application or touch screen solution.
 
-- Work on software modularize for a better and normalized coding experience
+- Work on software modularize for a better and normalized coding experience.
 
-- Share my brainstorming ideas with you
+- Share my brainstorming ideas with you or work with you to make your dream come true.
 
 ### 🐦 Where can you find me?
 
