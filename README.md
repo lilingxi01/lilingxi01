@@ -38,6 +38,8 @@
 
 - My first iOS (including iPadOS & macOS) product
 
+- Building a Software Ecosystem working for our future
+
 ### 👌 What can I do for you or with you?
 
 - Help you to build an amazing and outstanding App on both Android and Apple platforms (iOS, iPadOS, macOS).
