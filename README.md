@@ -16,7 +16,7 @@
 
 - Swift Software Engineer (for 1 year) working with SwiftUI
 
-- Good at team leading in teamworks of software developing
+- Good at team leading and modularizing project in teamworks of software developing
 
 ### 🙈 What can I do?
 
