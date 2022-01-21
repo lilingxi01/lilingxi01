@@ -10,35 +10,45 @@
 
 ### 🛰️ Here are some memos for you to know more about me:
 
-- Product Manager for Software (for 4 years) concentrating on an extraordinary User Experience and UI Design
+- Product Manager for Software (2017-2022) concentrating on an extraordinary User Experience and UI Design.
 
-- Java Software Engineer (for 4 years) concentrating on Android
+- Android Software Engineer (2017-2020) developing a flash-card app.
 
-- Swift Software Engineer (for 1 year) working with SwiftUI
+- UI Designer for all platforms (2019-2022) delivering a bunch of amazing user interfaces in the real application.
+
+- Apple platform Software Engineer (2020-2022) working with SwiftUI and AR.
+
+- Modern Web App Software Engineer (2020-2022) working with React, NextJS, and more.
+
+- Backend Software Engineer (2021-2022) working with Flask, FastAPI, SQLAlchemy, PostgreSQL, API Management, and more.
 
 - Good at team leading and modularizing project in teamworks of software developing
 
 ### 🙈 What can I do?
 
-- Programming Languages: Java, Javascript, Swift, Python(learning), C(learning), Crystal(learning)
+- Programming Languages: Java, Javascript, Swift, Python, C, SQL, Crystal(learning)
 
-- Product Design: To make the experiences of users and programmers better on both fore and back ends
+- Product Design: To make the experiences of users and programmers better on both front and back ends
 
-- Fore-end Development: SwiftUI, Java/Android, Website
+- Fore-end Development: SwiftUI(iOS/iPadOS/macOS), XML(Android), HTML, CSS, React
 
-- Back-end Development: Serverless Cloud Solutions, Springboot
+- Back-end Development: API(Springboot/FastAPI/Flask), Serverless, VPC and Load Balancer
 
-- Photos and Videos: Photoshop, Lightroom, Premiere Pro, etc
+- Database: PostgreSQL, MySQL, Realm
+
+- Others: Dockerize, CI/CD
+
+- Photos and Videos: Photoshop, Lightroom, Illustrator, Final Cut Pro, Premiere Pro, etc
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- Machine Learning (Python / Java / C)
+- Building a Web App for the unified account system.
 
-- IoT Client Solution
+- ML in Python.
 
-- My first iOS (including iPadOS & macOS) product
+- A SwiftUI framework.
 
-- Building a Software Ecosystem working for our future
+- An initial ecosystem with a unified account system and a few products in 2022.
 
 ### 👌 What can I do for you or with you?
 
