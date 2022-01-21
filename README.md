@@ -44,9 +44,13 @@
 
 - Building a Web App for the unified account system.
 
-- ML in Python.
+- Building another Web App for international student community.
 
-- A SwiftUI framework.
+- A SwiftUI framework (v0.1 release expected in June 2022).
+
+- A secret iOS product (release expected in May 2022).
+
+- ML in Python.
 
 - An initial ecosystem with a unified account system and a few products in 2022.
 
