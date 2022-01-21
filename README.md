@@ -10,11 +10,11 @@
 
 ### 🛰️ Here are some memos for you to know more about me:
 
-- Product Manager for Software (2017-2022) concentrating on an extraordinary User Experience and UI Design.
+- Software Product Manager (2017-2022) concentrating on an extraordinary User Experience and UI Design.
 
 - Android Software Engineer (2017-2020) developing a flash-card app.
 
-- UI Designer for all platforms (2019-2022) delivering a bunch of amazing user interfaces in the real application.
+- UI & UX Designer for all platforms (2019-2022) delivering a bunch of amazing user interfaces in the real application.
 
 - Apple platform Software Engineer (2020-2022) working with SwiftUI and AR.
 
