@@ -30,7 +30,7 @@
 
 - Product Design: To make the experiences of users and programmers better on both front and back ends
 
-- Fore-end Development: SwiftUI(iOS/iPadOS/macOS), XML(Android), HTML, CSS, React
+- Front-end Development: SwiftUI(iOS/iPadOS/macOS), XML(Android), HTML, CSS, React
 
 - Back-end Development: API(Springboot/FastAPI/Flask), Serverless, VPC and Load Balancer
 
