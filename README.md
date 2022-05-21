@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Lingxi.
+# 👋 Hi there! I'm Lingxi Li, 李凌熹. ([Resume](https://www.dropbox.com/s/7cmp6i6lj7g7fp1/Lingxi%27s%20Resume.pdf?dl=0))
 
 > **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
 
-🎓 - I am currently an undergraduate student majoring in Computer Science.
+🎓 - I am currently an incoming graduate student at UMass Amherst, majoring in Computer Science.
 
 🌍 - I and my collegues is now creating a series of advanced and gorgeous softwares for the smart life industry in the future. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
 
@@ -44,13 +44,13 @@
 
 - Building a Web App for the unified account system.
 
-- Building another Web App for international student community.
+- A magic date picker component (release expected in June 2022)
 
-- A SwiftUI framework (v0.1 release expected in June 2022).
+- A cross-platform native UI component library (v0.1 release expected in August 2022).
 
-- A secret iOS product (release expected in May 2022).
+- A secret product (release expected in August 2022).
 
-- ML in Python.
+- Machine Learning.
 
 - An initial ecosystem with a unified account system and a few products in 2022.
 
