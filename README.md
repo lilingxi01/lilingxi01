@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Lingxi Li, 李凌熹. ([Resume](https://www.dropbox.com/s/7cmp6i6lj7g7fp1/Lingxi%27s%20Resume.pdf?dl=0))
+# 👋 Hi there! I'm Lingxi Li, 李凌熹. ([CV](https://cv.lingxi.li) / [Resume](https://lingxili.notion.site/Lingxi-s-Resume-8f90dbf191664790814ad6006f51267d))
 
 > **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
 
-🎓 - I am currently an incoming graduate student at UMass Amherst, majoring in Computer Science.
+🎓 - I am currently a Computer Science master student at UMass Amherst.
 
 🌍 - I and my collegues is now creating a series of advanced and gorgeous softwares for the smart life industry in the future. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
 
