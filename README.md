@@ -44,11 +44,11 @@
 
 - Building a Web App for the unified account system.
 
-- A magic date picker component (release expected in June 2022)
+- A magic date picker component (released [here](https://ams.lingxi.li))
 
-- A cross-platform native UI component library (v0.1 release expected in August 2022).
+- A cross-platform native UI component library (v0.1 release date TBD).
 
-- A secret product (release expected in August 2022).
+- A secret product (release date TBD).
 
 - Machine Learning.
 
