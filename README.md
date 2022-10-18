@@ -24,7 +24,7 @@
 
 - Android Software Engineer (2017 - 2020), developed a flash-card app.
 
-- UI & UX Designer for all platforms (2019 - 2022), delivering a bunch of amazing user interfaces in the real application.
+- UI & UX Designer for all platforms (2019 - 2022), delivered a bunch of amazing user interface in real applications.
 
 - Backend Software Engineer (2021 - 2022), worked with Flask, FastAPI, Express, and Serverless.
 
