@@ -2,67 +2,65 @@
 
 > **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
 
-🎓 - I am currently a Computer Science master student at UMass Amherst.
+🎓 - I am currently a Computer Science master student at UMass Amherst. Expected to graduate in May 2024 and planning to be a PhD student in Computer Science.
 
-🌍 - I and my collegues is now creating a series of advanced and gorgeous softwares for the smart life industry in the future. All of the projects are yet in progress, hiding in the private repos, but I will be happy to let you know when they are ready to meet you.
+🔬 - I am actively doing research in Natural Language Processing (NLP) field with a group of passionate people at UMass BioNLP group.
+
+👨‍💻 - I am working part-time as Software Engineer at ECA Solar LLC. There are infinite possibilities right there.
+
+🌍 - Besides from my school and my works, I have been doing multiple outstanding side-projects (ongoing) like [Ams Date Picker](https://ams.lingxi.li). You are expected to see some of them coming next year.
 
 🌃 - I extremely enjoy the outdoors especially exploring nature and stargazing. So when tired, I liked to drive my car out to a state park. Nature gives me the power of all-day coding. (**I also take photos for them. You can find it in my instagram!! Link is at the bottom of the page.**)
 
 ### 🛰️ Here are some memos for you to know more about me:
 
-- Software Product Manager (2017-2022) concentrating on an extraordinary User Experience and UI Design.
+- Apple platform Software Engineer (2020 - now), working mainly with SwiftUI. This is what I love and enjoy to do!
 
-- Android Software Engineer (2017-2020) developing a flash-card app.
+- Assistant Machine Learning Researcher (2022 - now), focusing on Applied ML and NLP. May be focusing on Computer Vision in a sooner future.
 
-- UI & UX Designer for all platforms (2019-2022) delivering a bunch of amazing user interfaces in the real application.
+- Modern Web App Software Engineer (2020 - now), experienced with React, Next.js, and more.
 
-- Apple platform Software Engineer (2020-2022) working with SwiftUI and AR.
+- Freelance Software Product Manager (2017 - 2022), concentrating on an extraordinary User Experience and UI Design.
 
-- Modern Web App Software Engineer (2020-2022) working with React, NextJS, and more.
+- Android Software Engineer (2017 - 2020), developed a flash-card app.
 
-- Backend Software Engineer (2021-2022) working with Flask, FastAPI, SQLAlchemy, PostgreSQL, API Management, and more.
+- UI & UX Designer for all platforms (2019 - 2022), delivering a bunch of amazing user interfaces in the real application.
 
-- Good at team leading and modularizing project in teamworks of software developing
+- Backend Software Engineer (2021 - 2022), worked with Flask, FastAPI, Express, and Serverless.
+
+- Good at team leading and modularizing project in teamworks of software developing.
 
 ### 🙈 What can I do?
 
-- Programming Languages: Java, Javascript, Swift, Python, C, SQL, Crystal(learning)
+- Programming Languages: Javascript (TypeScript), Swift, Python, C, Java, C#, SQL.
 
-- Product Design: To make the experiences of users and programmers better on both front and back ends
+- Front-end Frameworks: SwiftUI(iOS/iPadOS/macOS), HTML, CSS, React, XML(Android), and more.
 
-- Front-end Development: SwiftUI(iOS/iPadOS/macOS), XML(Android), HTML, CSS, React
+- Back-end Frameworks: Springboot, Django, Flask, FastAPI, and more.
 
-- Back-end Development: API(Springboot/FastAPI/Flask), Serverless, VPC and Load Balancer
+- Database: PostgreSQL, MySQL, MongoDB, and a lot of serverless options.
 
-- Database: PostgreSQL, MySQL, Realm
-
-- Others: Dockerize, CI/CD
-
-- Photos and Videos: Photoshop, Lightroom, Illustrator, Final Cut Pro, Premiere Pro, etc
+- Others: CI/CD, UI Design, UX Design, Git, Figma, and Unity.
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- Building a Web App for the unified account system.
+- Earn more money. Every startup needs a lot of money. So do mine (in the future).
 
-- A magic date picker component (released [here](https://ams.lingxi.li))
+- Publish my first research paper by the mid of 2023.
 
-- A cross-platform native UI component library (v0.1 release date TBD).
+- Make a lot of great user-facing softwares that will be totally free and no-ads.
 
-- A secret product (release date TBD).
-
-- Machine Learning.
-
-- An initial ecosystem with a unified account system and a few products in 2022.
+- Learn C++ throughly, then try ML and UI on it.
 
 ### 👌 What can I do for you or with you?
 
-- Help you to build an amazing and outstanding App on both Android and Apple platforms (iOS, iPadOS, macOS).
+- Help you grow your business fast and efficiently by designing a state-of-the-art software development stack for you.
 
-- Make a business plan or product design for you in the field of mobile application or touch screen solution.
+- Design and develop a dedicated UI component library (on nearly all programming languages and all platforms) for you that fits totally fantastic with your design language and amazingly scalable.
 
-- Work on software modularize for a better and normalized coding experience.
+- Bring a small team up with my outstanding team-leading and collaborating skills in Computer Science and software development.
 
-- Share my brainstorming ideas with you or work with you to make your dream come true.
+- Share brainstorming ideas, and make your dream project come true in the most detailed way. **You will love what I create.**
 
 ### 🐦 Where can you find me?
 
