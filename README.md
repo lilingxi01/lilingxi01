@@ -2,7 +2,7 @@
 
 > **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
 
-🎓 - I am currently a Computer Science master student at UMass Amherst. Expected to graduate in May 2024 and planning to be a PhD student in Computer Science.
+🎓 - I am currently a Computer Science master student at UMass Amherst. Expected to graduate in May 2024 and planning to be a PhD student in Computer Science. **Open to any offer.**
 
 🔬 - I am actively doing research in Natural Language Processing (NLP) field with a group of passionate people at UMass BioNLP group.
 
