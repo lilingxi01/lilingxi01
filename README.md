@@ -65,6 +65,3 @@
 ### 🐦 Where can you find me?
 
 - <pre><a href="https://www.linkedin.com/in/lingxi-li-7a3517188/"><img align="center" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>&nbsp; @ <em>Lingxi Li</em></a></pre>
-
-- <pre><a href="https://www.instagram.com/lingxi.nath.li/"><img align="center" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>&nbsp; @ <em>lingxi.nath.li</em></a></pre>
-
