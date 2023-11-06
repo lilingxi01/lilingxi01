@@ -1,56 +1,54 @@
 # 👋 Hi there! I'm Lingxi Li, 李凌熹. ([CV](https://cv.lingxi.li) / [Resume](https://lingxili.notion.site/Lingxi-s-Resume-8f90dbf191664790814ad6006f51267d))
 
-> **PRONOUNS:** He / Him <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
+> **PRONOUNS:** He / Him
 
-🎓 - I am currently a Computer Science master student at UMass Amherst. Expected to graduate in May 2024 and planning to be a PhD student in Computer Science. **Open to any offer.**
+🎓 - I am currently a Computer Science master student at UMass Amherst. Expected to graduate in May 2024 and planning to be a PhD student in HCI. **Open to any offer or discussion!!**
 
-🔬 - I am actively doing research in Natural Language Processing (NLP) field with a group of passionate people at UMass BioNLP group.
+🔬 - I am actively doing research in Human-Computer Interaction (HCI) field with passionate people at UMass BioNLP group.
 
-👨‍💻 - I am working part-time as Software Engineer at ECA Solar LLC. There are infinite possibilities right there.
+👨‍💻 - I am working part-time as Software Engineer at ECA Solar LLC. There are infinite possibilities right there in ECA and in solar industry.
 
-🌍 - Besides from my school and my works, I have been doing multiple outstanding side-projects (ongoing) like [Ams Date Picker](https://ams.lingxi.li). You are expected to see some of them coming next year.
+🌍 - Besides from my master program and my works, I have been doing multiple outstanding side-projects (ongoing) like [Ams Date Picker](https://ams.lingxi.li). You are expected to see some of them coming next year.
 
 🌃 - I extremely enjoy the outdoors especially exploring nature and stargazing. So when tired, I liked to drive my car out to a state park. Nature gives me the power of all-day coding. (**I also take photos for them. You can find it in my instagram!! Link is at the bottom of the page.**)
 
 ### 🛰️ Here are some memos for you to know more about me:
 
+- Modern Full-Stack Software Engineer (2020 - now), experienced with Next.js (both pages and app dir), React, Postgres, React Native, WebSocket, and much more.
+
 - Apple platform Software Engineer (2020 - now), working mainly with SwiftUI. This is what I love and enjoy to do!
 
-- Assistant Machine Learning Researcher (2022 - now), focusing on Applied ML and NLP. May be focusing on Computer Vision in a sooner future.
+- HCI Student Researcher (2022 - now), focusing on exploring HCI projects with NLP and medical fields.
 
-- Modern Web App Software Engineer (2020 - now), experienced with React, Next.js, and more.
+- Software Architect (2021 - now), solved complex real-world questions like LLM-friendly CoT agent runner written in Python but scaling on TypeScript, and a multi-message conversation architecture served between users and LLMs.
 
-- Freelance Software Product Manager (2017 - 2022), concentrating on an extraordinary User Experience and UI Design.
+- UX-oriented Software Crafter (2017 - now), concentrating on delivering the best ever experience to all of my projects, work or side.
 
-- Android Software Engineer (2017 - 2020), developed a flash-card app.
+- ML Software Engineer (2022 - 2023), familiar with PyTorch, Keras, Transformers, Numpy, Pandas, etc.
 
-- UI & UX Designer for all platforms (2019 - 2022), delivered a bunch of amazing user interface in real applications.
+- I love to build a UI component library dedicately for the use of a company / a set of projects because different use cases have different needs. Full customization with Headless components is almost the best solution in UI library!
 
-- Backend Software Engineer (2021 - 2022), worked with Flask, FastAPI, Express, and Serverless.
-
-- Good at team leading and modularizing project in teamworks of software developing.
+- Good at leading team, composing big project into pluggable sub-projects, and re-unite them like creating an art.
 
 ### 🙈 What can I do?
 
-- Programming Languages: Javascript (TypeScript), Swift, Python, C, Java, C#, SQL.
+- Programming Languages: JavaScript (almost fully TypeScript), Python, Swift, C, Java, C#, SQL.
 
-- Front-end Frameworks: SwiftUI(iOS/iPadOS/macOS), HTML, CSS, React, XML(Android), and more.
+- Front-end Frameworks: Next.js, React, SwiftUI (iOS/iPadOS/macOS), pure HTML (with CSS), and more.
 
-- Back-end Frameworks: Springboot, Django, Flask, FastAPI, and more.
+- Back-end Frameworks: TypeScript API architectures (like Bun server, tRPC, or simply Express), Django, Flask, FastAPI, Springboot, or any framework that is already working.
 
-- Database: PostgreSQL, MySQL, MongoDB, and a lot of serverless options.
+- Database: PostgreSQL, MySQL, MongoDB, and a lot of serverless options (PlanetScale, Neon).
 
-- Others: CI/CD, UI Design, UX Design, Git, Figma, and Unity.
+- Others: CI/CD, Dockerize, UI/UX Design, native adaptation, 3D model integration, Git, Figma, and Unity.
 
 ### 💻 What am I currently aiming for? *(What am I learning or doing?)*
 
-- Earn more money. Every startup needs a lot of money. So do mine (in the future).
+- Every startup needs a lot of money. So do mine (in the future).
 
-- Publish my first research paper by the mid of 2023.
+- Publish my first HCI research paper by the end of 2023. Explore more HCI in NLP and medical fields in the future.
 
 - Make a lot of great user-facing softwares that will be totally free and no-ads.
-
-- Learn C++ throughly, then try ML and UI on it.
 
 ### 👌 What can I do for you or with you?
 
